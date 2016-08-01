@@ -1,4 +1,4 @@
 # githubexample
 github example
 
-joel castroMaria R.
+Joel Castro Maria R.
